@@ -254,7 +254,7 @@ export const TRANSLATIONS: Record<LanguageCode, {
       conciergeTitle: 'Discreet Private Concierge',
       conciergeDesc: 'Full in-villa culinary teams, private sommeliers, luxury chauffeur fleets, and airport tarmac VIP customs clearance for all guests.',
       calcTitle: 'Owner Net Yield & Revenue Simulator',
-      calcSubtitle: 'Estimate your estate’s annual earning potential under VillaKu Management asset stewardship.',
+      calcSubtitle: 'Estimate your estate’s annual earning potential under ASHER ABHYUDAYA GROUP asset stewardship.',
       bedroomsLabel: 'Number of Luxury Bedrooms',
       locationLabel: 'Prime Location',
       estGrossRev: 'Projected Annual Gross Revenue',

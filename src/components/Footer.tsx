@@ -30,7 +30,7 @@ export const Footer: React.FC<FooterProps> = ({
               </div>
               <div className="flex flex-col">
                 <span className="font-serif-luxury text-xl tracking-[0.08em] text-[#F3EFE6]">
-                  VillaKu Management
+                  ASHER ABHYUDAYA GROUP
                 </span>
                 <span className="text-[9px] tracking-[0.15em] text-[#C5A880] uppercase font-sans-modern">
                   Villa & Exclusive Living Property Management

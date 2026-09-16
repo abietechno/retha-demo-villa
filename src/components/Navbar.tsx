@@ -70,7 +70,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div className="flex flex-col">
               <div className="flex items-center gap-1.5">
                 <span className="font-serif-luxury text-xl sm:text-2xl tracking-[0.06em] text-[#F3EFE6] font-normal">
-                  VillaKu <span className="text-[#D4AF37] font-sans-modern font-normal text-sm sm:text-base tracking-[0.12em] uppercase">Management</span>
+                  ASHER <span className="text-[#D4AF37] font-sans-modern font-normal text-sm sm:text-base tracking-[0.12em] uppercase">ABHYUDAYA GROUP</span>
                 </span>
                 <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37]" />
               </div>
